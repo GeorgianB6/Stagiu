@@ -52,10 +52,20 @@ p {
 }
 input[type="text"] {
     width: 250px;
+
 }
 li {margin-bottom: 2px;}
+
+.error {
+    color: red;
+    text-align: right;
+    position: absolute;
+
+}
 
 .output {
     color: darkred;
     font-weight: bold;
+    text-align: center;
+    font-size: 1.3em;
 }
